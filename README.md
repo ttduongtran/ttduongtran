@@ -55,9 +55,9 @@ I'm a full-stack engineer from Vietnam.
 
 ### :fire: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ttduongtran&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ttduongtran&theme=dark)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttduongtran&layout=compact&theme=vision-friendly-dark)](https://github.com/ttduongtran/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttduongtran&layout=compact&theme=vision-friendly-dark)]
 
 ---
 
